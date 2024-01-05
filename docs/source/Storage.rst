@@ -248,3 +248,7 @@ Online Visual RAID Calculator
 - https://www.synology.com/en-global/support/RAID_calculator
    
 - http://grijpink.eu/tools/raid/index.php
+
+Online Data Storage Converter 
+==================================
+- https://oneconvert.com/unit-converters/data-storage-converter
